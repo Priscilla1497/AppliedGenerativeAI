@@ -1,0 +1,6 @@
+deepagents
+langchain[mcp]>=1.4.0
+langchain-text-splitters
+langgraph
+numpy
+python-dotenv
